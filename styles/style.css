@@ -1,0 +1,91 @@
+h1 {
+    font-size: 200px;
+    margin: 0;
+}
+
+h2 {
+    font-size: 64px;
+    align-content: center;
+    margin: 0;
+}
+
+h3 {
+    font-size: 48px;
+    margin: 0;
+}
+
+p {
+    font-size: 36px;
+    margin: 0;
+    /* padding-bottom: 16px; */
+}
+
+input {
+    font-size: 36px;
+    width: 100%;
+    border-radius: 50;
+    border: 0;
+    background-color: #BCBCBC80;
+    margin-bottom: 30px;
+    color: white;
+}
+
+body {
+    background-image: url(../assets/Broken\ Clouds.jpg);
+    /* background-position: bottom; */
+    background-size: cover;
+    /* background-attachment: fixed; */
+    font-family: "Radio Canada Big", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: normal;
+    font-style: normal;
+    color: white;
+}
+
+* {
+    border-radius: 30px;
+}
+
+.mainBg {
+    background-color: #00c6c660;
+    padding: 30px;
+    margin: 4.5% 8.5%;
+    width: auto;
+}
+
+.subBg {
+    background-color: #145255;
+    padding: 30px;
+    border: 1px solid black;
+}
+
+.customRounded1 {
+    border-radius: 30px 0 0 30px;
+    margin-left: 12px;
+    /* margin-right: 5px; */
+}
+.customRounded2 {
+    border-radius: 0;
+}
+.customRounded3 {
+    border-radius: 0 30px 30px 0;
+    margin-right: 12px;
+}
+
+.unselected {
+    color: #ffffff50;
+}
+
+.unselected:hover {
+    color: white;
+}
+
+button {
+    background-color: transparent;
+    border: 0;
+    color: white;
+}
+
+.margin30 {
+    margin-bottom: 30px;
+}
