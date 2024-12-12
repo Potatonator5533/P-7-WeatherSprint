@@ -2,12 +2,9 @@ let weatherImg1 = document.getElementById("weatherImg1");
 let weather1 = document.getElementById("weather1");
 let DOTW1 = document.getElementById("DOTW1");
 let currentTemp1 = document.getElementById("currentTemp1");
-let fahrenheit = document.getElementById("fahrenheit");
 let wind = document.getElementById("wind");
-let celsius = document.getElementById("celsius");
 let humidity = document.getElementById("humidity");
 let maxMinTemp1 = document.getElementById("max-minTemp1");
-let isFavorite = document.getElementById("isFavorite");
 let city = document.getElementById("city");
 let DOTW2 = document.getElementById("DOTW2");
 let weatherImg2 = document.getElementById("weatherImg2");
@@ -26,3 +23,11 @@ let weatherImg5 = document.getElementById("weatherImg5");
 let currentTemp5 = document.getElementById("currentTemp5");
 let maxMinTemp5 = document.getElementById("max-minTemp5");
 
+// Btns
+let fahrenheit = document.getElementById("fahrenheit");
+let secondDay = document.getElementById("secondDay");
+let celsius = document.getElementById("celsius");
+let thirdDay = document.getElementById("thirdDay");
+let fourthDay = document.getElementById("fourthDay");
+let fifthDay = document.getElementById("fifthDay");
+let isFavorite = document.getElementById("isFavorite");
